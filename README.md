@@ -1,7 +1,7 @@
 
 # EDVORA Assignment
 
-This assignment was about integrating a feed application with FastAPI and WebSockets. By opening the server link in different tabs the users can interact with each other and read each other's messages.
+This assignment was about integrating a feed application with FastAPI and WebSockets. By opening the server link in different tabs the users can interact with each other and read each other's messages.The users in each tabs are provided with random user numbers to distinguish them.
 
 
 ## Tech Stack
