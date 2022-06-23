@@ -13,7 +13,7 @@ FastAPI and WebSockets
 
 ## Installation
 
-Install FastAPI using pip , with [all] we can install all the necessary dependencies at once or we can also install them seperately.
+Install FastAPI using pip , with [all] we can install all the necessary dependencies or we can use 'requirements.txt' file to install the dependencies.
 
 ```bash
   pip install fastapi[all]
